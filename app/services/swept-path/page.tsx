@@ -50,7 +50,6 @@ const TrafficControlManagement = () => {
         </div>
       </section>
 
-      {/* Traffic Guidance Schemes & Management Plans (White Background) */}
       <section className="py-24 bg-white text-black">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-20">
